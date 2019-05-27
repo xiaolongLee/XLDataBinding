@@ -1,0 +1,2 @@
+# XLDataBinding
+iOS端View和ViewModel数据绑定框架。基于KVO监听所绑定ViewModel的属性，支持链式调用。
